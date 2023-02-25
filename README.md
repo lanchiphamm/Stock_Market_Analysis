@@ -1,1 +1,1 @@
-# stat201_gr6_prj
+# Stat201 Group Project
